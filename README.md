@@ -1,1 +1,2 @@
-# AngularJs-Tutorial
+# AngularJS Tutorial 
+by Kudvenkat
